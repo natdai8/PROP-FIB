@@ -1,0 +1,3 @@
+Directorio enums
+
+Directorio que contiene la enum de colores del programa.

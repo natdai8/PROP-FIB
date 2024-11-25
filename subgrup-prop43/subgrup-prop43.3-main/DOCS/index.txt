@@ -1,0 +1,7 @@
+Directorio DOCS 
+
+Directorio con toda la informacion y documentacion sobre el programa.
+Contiene:
+Documentacion tercera entrega
+Manual de usuario
+Juegos de pruebas utilizados para comprobar las funcionalidades del programa

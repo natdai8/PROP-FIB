@@ -1,0 +1,7 @@
+:1,hola,0,-1,2,CM,false,true,8,[MAGENTA],[],0;
+:1,sss,0,-1,2,CM,false,false,12,[],[],0;
+:1,asdasd,0,-1,2,CM,false,false,1,[],[],0;
+:1,ddfgdtfdsgd,0,-1,2,CM,false,false,1,[],[],0;
+:a,aaaaaaaaaaaaaa,0,-1,2,CM,false,false,12,[],[],0;
+:a,aaaaaaa,0,-1,2,CM,false,false,12,[],[],0;
+:1,dads,0,-1,2,CM,false,false,12,[],[],0;

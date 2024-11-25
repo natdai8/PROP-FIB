@@ -1,0 +1,9 @@
+Directorio EXE
+
+Directorio que contiene los ejecutables del programa.
+
+Comandos Makefile para ejecutar los drivers:
+    make runDriverAlgoritmo
+    make runDriverDominio
+    make runDriverPerfil
+    make runDriverPartida

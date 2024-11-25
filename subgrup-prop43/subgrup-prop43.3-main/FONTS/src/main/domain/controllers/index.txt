@@ -1,0 +1,4 @@
+Directorio controllers
+
+Directorio que contiene los controladores del programa.
+Los controladores sirven para evitar el acoplamiento entre clases.

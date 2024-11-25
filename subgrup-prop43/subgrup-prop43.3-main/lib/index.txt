@@ -1,0 +1,3 @@
+Directorio lib
+
+Directorio que contiene librerías que los tests necesitan para ejecutar.
